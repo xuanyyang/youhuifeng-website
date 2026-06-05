@@ -1,0 +1,4 @@
+cd d:\yangrui
+python -m http.server 8080 --bind 0.0.0.0
+
+手机上打开：http://192.168.31.10:8080/index.html
