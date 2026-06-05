@@ -1,0 +1,15 @@
+# 临时文件
+~$*.pptx
+*.tmp
+
+# 系统文件
+Thumbs.db
+.DS_Store
+desktop.ini
+
+# 打包文件
+website.zip
+
+# Python
+__pycache__/
+*.pyc
